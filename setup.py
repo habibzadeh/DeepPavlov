@@ -56,7 +56,7 @@ if __name__ == '__main__':
         author=__author__,
         author_email=__email__,
         license=__license__,
-        url='https://github.com/deeppavlov/DeepPavlov',
+        url='https://github.com/habibzadeh/DeepPavlov',
         download_url=f'https://github.com/deeppavlov/DeepPavlov/archive/{__version__}.tar.gz',
         keywords=__keywords__,
         include_package_data=True,
